@@ -1,0 +1,11 @@
+.btn-group-right {
+    float:right;
+}
+
+#google_map, #google_map_edit, #google_map_show, #osm_map  {
+    height:600px;
+}
+
+#osm_map {
+    display:none;
+}
